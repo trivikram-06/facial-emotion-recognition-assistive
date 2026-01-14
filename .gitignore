@@ -1,0 +1,11 @@
+# Ignore model files
+*.h5
+*.pt
+*.onnx
+
+# Ignore virtual environments
+venv/
+
+# Ignore cache
+__pycache__/
+*.pyc
